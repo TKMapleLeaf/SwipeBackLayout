@@ -5,5 +5,5 @@
 
 效果图：
 
-![这里写图片描述](https://raw.githubusercontent.com/SwipeBackLayout/master/back.gif)
+![这里写图片描述](https://github.com/cxmscb/SwipeBackLayout/blob/master/back.gif)
 
